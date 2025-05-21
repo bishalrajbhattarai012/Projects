@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Urbanist", sans-serif;
+    text-align: center;
   }
   
   html {
@@ -32,7 +33,7 @@
   
   p,
   span {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
   }
   
   li {
@@ -164,7 +165,7 @@
   .pokemon-name {
     font-size: 3.2rem;
     text-align: center;
-    color: #000;
+    color: #130606;
     text-transform: capitalize;
     margin-top: 2.4rem;
   }
@@ -197,6 +198,7 @@
   
   pokemon-info {
     text-align: center;
+    width:8px;
   }
   
   /* ///////////////////////////////////////// */
