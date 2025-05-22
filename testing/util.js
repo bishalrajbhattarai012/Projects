@@ -15,7 +15,7 @@ function fetchDataPromise() {
     setTimeout(() => {
       resolve("Data is Fetch with promise after 10000 ms");
     });
-  });
+  });   
 }
 
 module.exports.fetchData = fetchData;
